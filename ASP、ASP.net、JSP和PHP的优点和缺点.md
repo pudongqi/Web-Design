@@ -64,3 +64,6 @@
 |           面向对象编程，PHP提供了类和对象           |                |
 |             适合各类系统，平台无关性              |                |
 
+
+
+> 参考资料:http://blog.sina.com.cn/s/blog_8c75d11f01018xri.html
